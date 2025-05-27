@@ -378,4 +378,9 @@ footer.rodape {
         font-size: 20px;
         padding: 2% 5%;
     }
+
+   .uhu img {
+    width: 36px;
+    height: 36px;
+  }
 }
